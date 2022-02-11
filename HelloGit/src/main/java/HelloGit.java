@@ -9,6 +9,7 @@ class HelloGit {
         System.out.println("主綫添加");
         System.out.println("分支添加");
         System.out.println("在綫更新");
+        System.out.println("Clone下來的項目添加");
     }
 
 }
